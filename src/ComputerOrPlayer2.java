@@ -8,7 +8,7 @@ public abstract class ComputerOrPlayer2 extends Player1 {
 
     //setter for one of variables to update new info
     public ComputerOrPlayer2() {
-        setFirstName("They");
+        setFirstigName("They");
         rand = new Random();
     }
     //override method for ComputerOrPlayer2 class - task that ComputerOrPlayer2class must perform
