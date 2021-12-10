@@ -21,10 +21,7 @@ import java.util.Scanner;
           Scanner sc2 = new Scanner(System.in);
           String str2 = sc.nextLine();
       }}
-//
-//}}
-//
-//
+
 
 
 
