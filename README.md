@@ -1,3 +1,12 @@
+
+- main and master branches were used for this project
+- src folder with actual code is in the master branch 
+- go to top left corner, click on source control button, switch to master branch on readme of repository 
+
+## Screenshot of master branch with src folder
+![](https://user-images.githubusercontent.com/73563991/183225850-f5e6c191-83cd-4c5b-9967-9c1cd38b3745.png)
+
+
 # Java-OOP-Mini-Project
 
 Description: 
